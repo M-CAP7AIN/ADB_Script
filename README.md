@@ -1,1 +1,1 @@
-# ADB_Script
+# adb Script For Emulator Connection
